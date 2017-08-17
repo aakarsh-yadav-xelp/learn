@@ -1,3 +1,14 @@
 hi there aaku is here....
 commmited done by aakarsh child branch
 Aaku is here bro a nor 
+
+all commands goes here
+git checkout -b [new_branch]
+git checkout [branch]
+update any code 
+git add .
+git push origin [brnach_name]
+git checkout master
+git merge [branch_name]
+git push origin [brnach_name]
+git status
